@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraser-steven&label=Profile%20views&color=0e75b6&style=flat" alt="fraser-steven" /> </p>
 
-- 🔭 I’m currently working for **Accountancy Scotland** as a Software Engineer
+- 🔭 I’m currently working for **Accountancy Scotland** as a Software Engineer focusing on Buisiness Process Automation and AI Development
 
 - 🌱 I’m currently learning **C** to advance my knowledge of low level languages
 
