@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Fraser Steven</h1>
 <h3 align="center">A passionate backend and AI SWE from Scotland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraser-steven&label=Profile%20views&color=0e75b6&style=flat" alt="fraser-steven" /> </p>
 
 - 🔭 I’m currently working for **Accountancy Scotland** as a Software Engineer focusing on Buisiness Process Automation and AI Development
 
